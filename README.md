@@ -60,7 +60,7 @@ This project provides a mood-based music recommendation system. Users can select
 5. **Install the necessary Python packages**:
 
    ```bash
-     pip install flask flask_sqlalchemy flask_cors Pillow webcolors openai metahpor-python
+     pip install flask flask_sqlalchemy flask_cors Pillow webcolors openai metaphor-python
      ```
 
 ### Frontend Setup
