@@ -81,6 +81,11 @@ This project provides a mood-based music recommendation system. Users can select
 
 ## Running the Application
 
+### Setting up the environment Variables: 
+``` bash
+export OPENAI_API_KEY='your_api_key_here'
+export METAPHOR_API_KEY='your_metaphor_api_key_here' 
+```
 ### Starting the Backend
 
 While in the `backend` directory and with the virtual environment activated:
